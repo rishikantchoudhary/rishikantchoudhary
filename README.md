@@ -47,10 +47,10 @@ Here are the tools and technologies I enjoy working with.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikantchoudhary&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikantchoudhary&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Here are the tools and technologies I enjoy working with.
 
 I'm always down to chat about code, design, or new opportunities.
 
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
-- 🐦 Twitter/X: [@YourHandle]
-- 📧 Email: [Your Email Address]
-- 🌐 Portfolio: [Your Website Link]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rishi951/]
+- 🐦 Twitter/X: [@Rishi_951]
+- 📧 Email: [rihsikantchoudhary951@gmail.com]
+- 🌐 Portfolio: [https://rishis-dev-portfolio.vercel.app/]
