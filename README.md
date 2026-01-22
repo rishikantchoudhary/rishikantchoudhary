@@ -44,22 +44,11 @@ Here are the tools and technologies I enjoy working with.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikantchoudhary&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikantchoudhary&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always down to chat about code, design, or new opportunities.
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/rishi951/]
-- 🐦 Twitter/X: [@Rishi_951]
-- 📧 Email: [rihsikantchoudhary951@gmail.com]
-- 🌐 Portfolio: [https://rishis-dev-portfolio.vercel.app/]
+- 💼 LinkedIn[https://www.linkedin.com/in/rishi951/]
+- 🐦 Twitter/X[https://x.com/Rishi_951]
+- 🌐 Portfolio[https://rishis-dev-portfolio.vercel.app/]
+- 📧 Email: rihsikantchoudhary951@gmail.com
