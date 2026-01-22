@@ -48,7 +48,7 @@ Here are the tools and technologies I enjoy working with.
 
 I'm always down to chat about code, design, or new opportunities.
 
-- (💼 LinkedIn)[https://www.linkedin.com/in/rishi951/]
-- (🐦 Twitter/X)[https://x.com/Rishi_951]
-- (🌐 Portfolio)[https://rishis-dev-portfolio.vercel.app/]
+- [💼 LinkedIn](https://www.linkedin.com/in/rishi951/)
+- [🐦 Twitter/X](https://x.com/Rishi_951)
+- [🌐 Portfolio](https://rishis-dev-portfolio.vercel.app/)
 - 📧 Email: rishikantchoudhary951@gmail.com
